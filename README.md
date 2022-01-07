@@ -7,3 +7,5 @@ The dataset containing 10 Staphylococcus genomes, each containing several genes 
 
 The model trained using training by counting and employed a 5-fold cross validation to select the best model. Viterbi decoding to predict 5 unannotated genomes.
 
+### The model:
+![](transition diagram.jpg)
